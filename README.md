@@ -28,4 +28,4 @@
 
 - [`IG`](https://www.instagram.com/galihmalgiah/)
 
-- [`IG`](https://youtu.be/Xxhax4dY3LE)
+- [`YT`](https://youtu.be/Xxhax4dY3LE)
