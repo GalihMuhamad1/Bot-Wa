@@ -3,16 +3,16 @@
 	"autobio": false,
 	"antihidetag": true,
 	"user_register": false,
-	"anti_delete" : false,
-	"anticall": true,
+	"anti_delete" : true,
+	"anticall": false,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "6289652300145",
-	"ownerNumberr": "6289670092348",
+	"ownerNumber": "6281222180225",
+	"ownerNumberr": "6281222180225",
 	"cr": "@alihh",
-	"ownername": "its me lihh",
-	"botname":"undefined",
+	"ownername": "Galih Muhamad",
+	"botname":"GMABot",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  alihh  」\nCreated By @lihh"
+	"fake": " 「  Galihh  」\nCreated By @Galihh"
 }
